@@ -167,7 +167,7 @@ client.on('group-participants-update', async (anu) => {
 			}
 
 			const botNumber = client.user.jid
-			const ownerNumber = ["6281803522862@s.whatsapp.net"] , ["6287884875077@s.whatsaap.net"]
+			const ownerNumber = ["6281803522862@s.whatsapp.net" , "6287884875077@s.whatsaap.net"
 			const isGroup = from.endsWith('@g.us')
 			const sender = isGroup ? mek.participant : mek.key.remoteJid
 			const groupMetadata = isGroup ? await client.groupMetadata(from) : ''
