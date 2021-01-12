@@ -12,7 +12,7 @@ const donasi = () => {
 ┣⊱ 0823-3429-7175
 ┃
 ┣━━━━━━━━━━━━━━━━━━━━
-┃  *BOT BY AFFIS*
+┃  *BOT BY YanzzOfficial*
 ┗━━━━━━━━━━━━━━━━━━━━
 
 `
