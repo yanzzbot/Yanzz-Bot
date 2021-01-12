@@ -46,10 +46,10 @@ const time = moment().tz('Asia/Jakarta').format("HH:mm:ss")
 const arrayBulan = ['Januari', 'Februari', 'Maret', 'April', 'Mei', 'Juni', 'Juli', 'Agustus', 'September', 'Oktober', 'November', 'Desember']
 const bulan = arrayBulan[moment().format('MM') - 1]
 const config = {
-    XBOT: '❉AmpibI❉', 
+    XBOT: '❉YanzzOfficial🤖❉', 
     instagram: 'https://instagram.com/_zxuan54', 
     nomer: 'wa.me/6281803522862',
-    youtube: 'https://youtube.com/channel/YanxzOfficial', 
+    youtube: 'https://youtube.com/channel/YanzzOfficial', 
     whatsapp: 'Comming soon', 
     tanggal: `TANGGAL: ${moment().format('DD')} ${bulan} ${moment().format('YYYY')}`,
     waktu: time
